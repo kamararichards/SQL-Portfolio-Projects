@@ -1,2 +1,2 @@
 # SQL-Portfolio-Projects
-Sample of data analysis done using SQL
+Sample of data analysis work done using SQL
