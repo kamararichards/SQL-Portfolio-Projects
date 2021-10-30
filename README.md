@@ -1,2 +1,8 @@
 # SQL-Portfolio-Projects
-Sample of data analysis work done using SQL
+This repository provides a sample of data analysis work I completed using SQL and includes the following:
+
+Project Name  | Description
+------------- | -------------
+Analyze International Debt Statistics  | Wrote SQL queries to answer interesting questions about international debt data from The World Bank
+
+
